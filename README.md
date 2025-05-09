@@ -42,7 +42,7 @@ An AI-powered travel assistant that provides real-time visa, vaccine, and docume
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/travel-ai-assistant.git
+   git clone https://github.com/bethwelbruce/travel-ai-assistant.git
    cd travel-ai-assistant
 Set up backend:
 
